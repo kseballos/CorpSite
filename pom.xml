@@ -97,6 +97,7 @@
             </plugin>
 
             <!-- Default 2.2 is too old, update to latest -->
+            <!-- Test -->
             <plugin>
                 <groupId>org.apache.maven.plugins</groupId>
                 <artifactId>maven-war-plugin</artifactId>
